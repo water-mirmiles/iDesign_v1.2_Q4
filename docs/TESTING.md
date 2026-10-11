@@ -22,6 +22,7 @@
 - ITER-001 本地：语法/资源、文档链接/版本、构建和 3 项单元检查通过；Python 打包脚本语法通过。Chromium 已下载到工作区，但启动因 macOS MachPortRendezvous Permission denied（1100）被阻断，两条浏览器断言均未执行，完整 npm run check 未通过。Linux CI 待执行，不删减回归门禁。
 - 全 24 屏固定分辨率像素对照未完成；正式用户验收未完成。
 - 首次 Linux CI（af95adf，[run 38146591304](https://github.com/water-mirmiles/iDesign_v1.2_Q4/actions/runs/38146591304)）在浏览器断言发现两处测试定位错误：卡片标题带状态文字，不能用整段精确文本；描述的模糊标签同时匹配润色按钮。改用项目完整 aria-label 与 textbox 精确名称，保留两条原流程和全部断言，修正后重新验证。
+- 第二次 Linux CI（fc770b6，[run 38146721061](https://github.com/water-mirmiles/iDesign_v1.2_Q4/actions/runs/38146721061)）：新建/生成/刷新/JSON 文件主流程通过；产品卡鼠标中心命中 hover 创作入口而非详情，改用可聚焦产品卡的 Enter 打开详情，继续核对详情/看板及资源错误，不删断言。
 - 没有真实 AI、PDM/ERP、法务、经营和协作服务，因此不记录这些联网验收通过。此前在线部署未完成，不等于当前 GitHub 同步失败。
 
 ## 人工验收步骤

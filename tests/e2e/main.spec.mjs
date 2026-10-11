@@ -11,7 +11,7 @@ test('project, theme, library and board navigation has no missing resources', as
   await page.reload();
   await expect(page.locator('body')).toHaveClass('dark');
   await page.getByRole('button', { name: '全球产品库', exact: true }).click();
-  await page.locator('[data-action="product-detail"][data-id="mango"]').click();
+  await page.locator('[data-action="product-detail"][data-id="mango"]').press('Enter');
   await expect(page.getByRole('heading', { name: 'Round-toe leather heeled ankle boots' })).toBeVisible();
   await page.getByRole('button', { name: '看板', exact: true }).click();
   await expect(page.getByText('经营目标总览', { exact: true })).toBeVisible();
