@@ -8,13 +8,13 @@
 
 - main：空仓库初始化入口，后续稳定基线按授权合入。
 - baseline-original：此次工程整理前的原型恢复点，本地 Git 保存。
-- chore/project-foundation：ITER-001 正式工程候选；待检查/用户验收，不默认合并。
-- v0.1.0-foundation-rc1：检查完成后建立候选标签；rc 不表示正式发布或用户已验收。
+- chore/project-foundation：ITER-001 正式工程候选；工程检查通过、待用户验收，不默认合并。
+- v0.1.0-foundation-rc1：完整 CI 检查后在本地建立候选标签并纳入离线 bundle；尚未同步远程标签。rc 不表示正式发布或用户已验收。
 - 日常工作在 feature/fix/chore，批量推送约定见 AGENTS 与 DEVELOPMENT_WORKFLOW。
 
 ## 保护与真实状态
 
-本轮会核对远程文件与候选 head，记录最终 PR/CI。CI 工作流已纳入候选源码；服务器侧分支保护尚未配置，不能把它写成已启用。已连接 GitHub 接口未提供保护规则写入工具；浏览器未登录，设置页不可访问。本轮没有更改仓库权限。建议 main 设置必须 PR、必须通过 `Code and browser checks`、禁止强推/删除；评审人数按实际团队确定，单账号不能要求自己批准自己的 PR。
+首轮 [草稿 PR #1](https://github.com/water-mirmiles/iDesign_v1.2_Q4/pull/1) 已建立；完整 CI 证据见 TESTING。已核对远程/本地文件树一致，本机正式分支已跟踪远程同一提交；独立本地恢复点保留在 backup/local-* 分支，不改写历史。CI 工作流已纳入候选源码；服务器侧分支保护尚未配置，不能把它写成已启用。已连接 GitHub 接口未提供保护规则写入工具；浏览器未登录，设置页不可访问。本轮没有更改仓库权限。建议 main 设置必须 PR、必须通过 `Code and browser checks`、禁止强推/删除；评审人数按实际团队确定，单账号不能要求自己批准自己的 PR。
 
 本机 Git CLI 未登录；首轮通过已连接 GitHub 接口初始化和导入，保留 parent 与文件树。本地独立原型恢复历史另留备份，远程同步后以远程提交建立跟踪分支。
 

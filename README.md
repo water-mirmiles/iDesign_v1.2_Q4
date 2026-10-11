@@ -1,6 +1,6 @@
 # iDesign · 鞋履设计工作台
 
-工程版本：0.1.0 · 最后更新：2026-10-11 · 状态：工程基线候选，待验证及用户验收。
+工程版本：0.1.0 · 最后更新：2026-10-11 · 状态：工程检查通过，待用户验收。
 
 以用户提供的 24 张截图为视觉基准，复刻项目中心、全球产品库、经营看板和无限画布。当前是可运行的前端交互原型；PDM、ERP、AI、法务与经营数据仍为演示或未接入。仓库名中的 `v1.2_Q4` 表示产品阶段，不等于工程已达到正式 1.2 发布质量。
 
@@ -33,7 +33,7 @@ npm run package
 
 `check` 包含 JavaScript 语法、资源引用、文档链接、版本一致性、静态构建、单元和真实 Chromium 主流程回归。`package` 在全部检查通过后输出 `release/iDesign-0.1.0-static.zip`、逐文件校验清单和 ZIP SHA-256；解压产物可由静态 Web 服务承载，支持 `/iDesign/` 子目录。`npm run preview` 只用于本机预览构建。
 
-自动检查不能证明完整像素一致、真实外部服务或用户业务验收。当前具体验证结果见 [TESTING](docs/TESTING.md)，迭代状态见 [ITERATIONS](docs/ITERATIONS.md)。不默认部署或合并远程分支。
+首轮候选见 [草稿 PR #1](https://github.com/water-mirmiles/iDesign_v1.2_Q4/pull/1)。Linux CI 已通过完整工程门禁，证据见 TESTING。自动检查不能证明完整像素一致、真实外部服务或用户业务验收。当前具体验证结果见 [TESTING](docs/TESTING.md)，迭代状态见 [ITERATIONS](docs/ITERATIONS.md)。不默认部署或合并远程分支。
 
 ## 文档入口
 
