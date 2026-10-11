@@ -6,7 +6,7 @@ test('project, theme, library and board navigation has no missing resources', as
   await page.goto('./');
   await expect(page.getByText('暂无数据，')).toBeVisible();
   await page.locator('[data-action="tab"][data-tab="self"]').click();
-  await expect(page.getByText('AS 演示', { exact: true })).toBeVisible();
+  await expect(page.getByLabel('打开项目 AS 演示', { exact: true })).toBeVisible();
   await page.getByRole('button', { name: '切换深浅色主题' }).click();
   await page.reload();
   await expect(page.locator('body')).toHaveClass('dark');
@@ -25,7 +25,7 @@ test('new project persists nodes, explicit demo generation and JSON backup', asy
   await expect(page.getByLabel('无限画布')).toBeVisible();
   await page.getByRole('button', { name: '打开节点工具' }).click();
   await page.getByRole('button', { name: '自由创作', exact: true }).click();
-  await page.getByLabel('设计描述').fill('保留鞋型，测试演示变化');
+  await page.getByRole('textbox', { name: '设计描述', exact: true }).fill('保留鞋型，测试演示变化');
   await page.getByRole('button', { name: '生成', exact: true }).click();
   await expect(page.locator('.result-label')).toContainText('演示');
   await page.reload();
