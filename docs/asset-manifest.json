@@ -1,0 +1,266 @@
+[
+  {
+    "path": "web/assets/adidas.jpg",
+    "sha256": "34a7b5a0b0114186638a43b1d80c41bb880437d03a97ce7529752672f33fd8fb",
+    "bytes": 49312,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/as-cover.jpg",
+    "sha256": "60fb228aad22e7bdfb1d7aa5717e04c6d0b9378a7a6e8b15c307bb237c94777f",
+    "bytes": 97350,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/avatar.jpg",
+    "sha256": "c4f52b3000d6bd657d34528e2b5d99e208ba7e14ed1495aab262d0f6db424989",
+    "bytes": 4340,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/belt.jpg",
+    "sha256": "7f36e5e3a7de7822f9b42a14b9059339e2b158bdd06774442555dabaa8c9d46a",
+    "bytes": 30438,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/black.jpg",
+    "sha256": "aa22146190ca35600c43f92d069dc935658e3828dca861f096e6f651884a663a",
+    "bytes": 25646,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/blue.jpg",
+    "sha256": "a247449256e46f513048cf95ec53dfdda631e2cb4dd08f33600ad30c3b78da87",
+    "bytes": 53154,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/boot.jpg",
+    "sha256": "892e01159d0a449b2c0c3020de86773c3ea6c6e50cf1f5da93cecaff6c713b27",
+    "bytes": 42350,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/born.jpg",
+    "sha256": "ade0a5deb0c4f174c2b63be15ec7e926bb9e1ec0dba3a335fc7eb4050bd68ea3",
+    "bytes": 59295,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/brooks.jpg",
+    "sha256": "d55feb553385911d1392c83592f6e325ad7b64d8c980af738767e84a882bfdf1",
+    "bytes": 45008,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/clarks-suede.jpg",
+    "sha256": "ee2e8a2c6b3ed64736fa411db5d9d29b946aaaadaf171878c7f49debdadaa0a8",
+    "bytes": 65864,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/clarks.jpg",
+    "sha256": "194cac9f9f04a45f6ef0747d749a1e8b3fd4d2457bdd448fbf60e83046b90b6f",
+    "bytes": 89915,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/ct-0.jpg",
+    "sha256": "2370c66e64e0cc7e10057525c553836bc31030aec6c1a4a46d22820a7c3ac47e",
+    "bytes": 42195,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/ct-1.jpg",
+    "sha256": "97f2be7c4ea2078d34c42a40e9c02d123b5278c283e45d2842640cc7dcfd6e63",
+    "bytes": 130321,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/ct-2.jpg",
+    "sha256": "a1ea0577f23a5c853abbf47da204c1c77961cf4c72f1785a34e01b7e431db441",
+    "bytes": 85294,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/ct-3.jpg",
+    "sha256": "4ce4b7b297ec33a83e4e10c59373b5b576e3bbbcb4999315c40268ffe193ccfc",
+    "bytes": 124829,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/ct-4.jpg",
+    "sha256": "3928e70bcca5560c9009b1f2e0ae610383644e637b5a034a6d1f10cdabb773f5",
+    "bytes": 110556,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/ct-5.jpg",
+    "sha256": "7c0a4df7cbddb00c6d7748ae11e8758c1e4e53bfc39663b99c53b3e53300255b",
+    "bytes": 74980,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/ct-6.jpg",
+    "sha256": "5e30846d32e5b5643d880a9e31538523b85f981a892a67b7942ad6f57c4b46f8",
+    "bytes": 68544,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/ct-7.jpg",
+    "sha256": "5e8c230bc55014559976655153cd20a4275a6271356418a54bc2f73e11e6b4ea",
+    "bytes": 58085,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/ct-8.jpg",
+    "sha256": "5123a2b97134bb874a356793d469f0f7fda2134de6ad07538ad33981e5098d23",
+    "bytes": 59863,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/ct-9.jpg",
+    "sha256": "7b9733eecdee54173571b51f18f41823f99d0591c09edded67a28b5a8d6fbc34",
+    "bytes": 102617,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/dark-blue.jpg",
+    "sha256": "d26b4cfe153fc84e84c6ee7ec94b62f1f9fa43cde2c40eb30225c82d4f0313d6",
+    "bytes": 58330,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/dark-brown.jpg",
+    "sha256": "508e2c01903f67ade718463e2c104547bce01632a2ac202eeda202b3c36a562d",
+    "bytes": 28547,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/detail-mango.jpg",
+    "sha256": "74261ef2a6a182f4f5c645e30e70a41d532e96ccb052973b7a4ecbb924b7581c",
+    "bytes": 30764,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/empty-dark.jpg",
+    "sha256": "745490b423c6aa6a7de3c8c81736de6211a46657edd22a4d209e69ca647a160e",
+    "bytes": 4069,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/empty.jpg",
+    "sha256": "ba83b6aee436365cc8788e9d2f17656fed286f730d32df4134e741dca1848f02",
+    "bytes": 3755,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/flat.jpg",
+    "sha256": "3ccf60d7e6e23898411b7a8582839e478d266922489b423235a896220623151d",
+    "bytes": 23593,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/import-0.jpg",
+    "sha256": "1319226c8ada10716770851567e928ca76808314a80662523d251c27b4937cc7",
+    "bytes": 5462,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/import-1.jpg",
+    "sha256": "f4319c9a8ff35cd9b3c9dd84e41141d082ae6a72da13e90749693b536b9bc2db",
+    "bytes": 6015,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/import-2.jpg",
+    "sha256": "c829e141a18533d7768c588589a958e9dacd6bd65263baecc507d01cb33d9be3",
+    "bytes": 10348,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/import-3.jpg",
+    "sha256": "f940074cc7dfb391fa977c721b0c27c514538e15f8edf8b169ba491d2818ba00",
+    "bytes": 8684,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/import-4.jpg",
+    "sha256": "ca62df0753c29ec617a09357474db89e349af089aeee203f7215afcde515ef96",
+    "bytes": 8054,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/import-5.jpg",
+    "sha256": "6a122b78262a8ccd33e5b08643a0ab4c81d3531d70b80ef9f237561e3d34908c",
+    "bytes": 8520,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/import-6.jpg",
+    "sha256": "17bb16965a85a3eb8e7a5b96643eebde0922b933a9f0d3816e7f46d95aadb954",
+    "bytes": 8539,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/import-7.jpg",
+    "sha256": "2dd7562dcf0b039b2cc45d2fa1eeb2abdd87bf36fd8869fc66bacf82a403924b",
+    "bytes": 8414,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/import-8.jpg",
+    "sha256": "a5e3cb4d244869bed6fc8513e84c43eaa1b063686c952bf1eb210225d2b948b2",
+    "bytes": 9593,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/import-9.jpg",
+    "sha256": "97d6160e0f2f2d1e7b1a76acf95ac201834138196257808fad7fbbe9189ab412",
+    "bytes": 7658,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/lv-boots.jpg",
+    "sha256": "f04001bb08b834ea0f1f050da13bc016151a775d9d30f15e4063a2c68bfc95c4",
+    "bytes": 31783,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/mango.jpg",
+    "sha256": "a963322f7be4074a8f0eec5a0cf7f3d82495aff476a69b3a1eb7439768f09fd6",
+    "bytes": 112279,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/mule.jpg",
+    "sha256": "bb59251498d4e1accc2bd820bdfbc360c4c5b00b855fc116714ef99e7b916ac5",
+    "bytes": 28010,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/pink.jpg",
+    "sha256": "bcabefe5c30a9060420b6772faf93e53ab42d417afc5500fb31f72cb1c6a498b",
+    "bytes": 106165,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/salomon.jpg",
+    "sha256": "1c1cdfa86d05b458c51cf5664df289edbc5600d6f92c0ee8170848591e37d2d1",
+    "bytes": 58300,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/sneaker.jpg",
+    "sha256": "b816c687baccae07d9c93034fdcc8ba6fb17850791cc34068b0db80864c21a8f",
+    "bytes": 35482,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  },
+  {
+    "path": "web/assets/sole.jpg",
+    "sha256": "d8c38a2c94353f2d0fc1697540e835feb563a0abb5208c6163c80250ee211944",
+    "bytes": 106089,
+    "source": "User-provided iDesign screenshots; cropped reference"
+  }
+]
